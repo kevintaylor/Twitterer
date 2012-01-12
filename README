@@ -1,0 +1,3 @@
+This project is the code from a tutorial I ran at EclipseCon 2009 in order to demonstrate that you can create clean, test-driven code when doing Eclipse RCP development.
+
+It also demonstrates the Model-View-Presenter pattern that is very powerful when working in an event-driven environment.
