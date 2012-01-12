@@ -1,0 +1,5 @@
+#Wed Mar 25 13:52:08 PDT 2009
+eclipse.preferences.version=1
+task-tags/taskPriorities=1,0,1,2
+task-tags/taskTags=TODO,FIXME,XXX,DANGER
+task-tags/use-project-settings=true
